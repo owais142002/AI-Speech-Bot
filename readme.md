@@ -19,19 +19,19 @@ This project consists of a React-based frontend that listens to user queries, se
 
 ### Running the Frontend
 
-   ```bash
-   cd frontend
-   npm install
-   npm start
-   ```
+```bash
+cd frontend
+npm install
+npm start
+```
 The frontend should now be running on http://localhost:3000.
 
 ## Running the Backend
 
 ```bash
-   cd backend
-   pip install -r requirements.txt
-   flask run
+cd backend
+pip install -r requirements.txt
+flask run
 ```
 The backend should now be running on http://localhost:5000.
 
